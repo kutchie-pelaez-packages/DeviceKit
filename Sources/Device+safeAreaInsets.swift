@@ -60,11 +60,8 @@ extension Device {
               .iPadPro12Inch5:
             return UIEdgeInsets(top: 20, left: 0, bottom: 0, right: 0)
 
-        case let .simulator(device):
-            return device.safeAreaInsets
-
-        case .unknown:
-            return .zero
+        case let .simulator(device): return device.safeAreaInsets
+        case .unknown: return .zero
         }
     }
 }

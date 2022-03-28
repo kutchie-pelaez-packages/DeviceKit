@@ -12,7 +12,7 @@ public enum Device {
     /// ![Image](https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP743/iphone7-black.png)
     case iPhone7
 
-    /// [iPhone 7 Plus](https://support.apple.com/kb/SP744)
+    /// [iPhone 7 Plus](rhttps://support.apple.com/kb/SP744)
     /// ![Image](https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP744/iphone7-plus-black.png)
     case iPhone7Plus
 
@@ -182,6 +182,5 @@ public enum Device {
     case iPadPro12Inch5
 
     indirect case simulator(Device)
-
     case unknown(String)
 }

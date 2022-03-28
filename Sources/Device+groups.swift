@@ -1,8 +1,6 @@
 extension Device {
     public static var allPods: [Device] {
-        [
-            .iPodTouch7,
-        ]
+        [.iPodTouch7]
     }
 
     public static var allPhones: [Device] {
@@ -29,7 +27,7 @@ extension Device {
             .iPhone13,
             .iPhone13Mini,
             .iPhone13Pro,
-            .iPhone13ProMax,
+            .iPhone13ProMax
         ]
     }
 
@@ -55,7 +53,7 @@ extension Device {
             .iPadPro11Inch2,
             .iPadPro12Inch4,
             .iPadPro11Inch3,
-            .iPadPro12Inch5,
+            .iPadPro12Inch5
         ]
     }
 
@@ -67,7 +65,7 @@ extension Device {
             .iPhoneXSMax,
             .iPhone11ProMax,
             .iPhone12ProMax,
-            .iPhone13ProMax,
+            .iPhone13ProMax
         ]
     }
 
@@ -88,7 +86,7 @@ extension Device {
             .iPadPro11Inch2,
             .iPadPro12Inch4,
             .iPadPro11Inch3,
-            .iPadPro12Inch5,
+            .iPadPro12Inch5
         ]
     }
 
@@ -96,7 +94,7 @@ extension Device {
         [
             .iPadMini4,
             .iPadMini5,
-            .iPadMini6,
+            .iPadMini6
         ]
     }
 
@@ -124,7 +122,7 @@ extension Device {
             .iPadPro9Inch,
             .iPadPro12Inch,
             .iPadPro10Inch,
-            .iPadPro12Inch2,
+            .iPadPro12Inch2
         ]
     }
 
@@ -150,7 +148,7 @@ extension Device {
             .iPadPro11Inch2,
             .iPadPro12Inch4,
             .iPadPro11Inch3,
-            .iPadPro12Inch5,
+            .iPadPro12Inch5
         ]
     }
 
@@ -170,7 +168,7 @@ extension Device {
             .iPhone13,
             .iPhone13Mini,
             .iPhone13Pro,
-            .iPhone13ProMax,
+            .iPhone13ProMax
          ]
     }
 
@@ -198,7 +196,7 @@ extension Device {
             .iPadPro11Inch2,
             .iPadPro12Inch4,
             .iPadPro11Inch3,
-            .iPadPro12Inch5,
+            .iPadPro12Inch5
         ]
     }
 
@@ -212,7 +210,7 @@ extension Device {
             .iPhone8Plus,
             .iPhoneX,
             .iPhoneXS,
-            .iPhoneXSMax,
+            .iPhoneXSMax
         ]
     }
 
@@ -235,7 +233,7 @@ extension Device {
             .iPhone13,
             .iPhone13Mini,
             .iPhone13Pro,
-            .iPhone13ProMax,
+            .iPhone13ProMax
         ]
     }
 
@@ -248,7 +246,7 @@ extension Device {
             .iPadPro11Inch2,
             .iPadPro12Inch4,
             .iPadPro11Inch3,
-            .iPadPro12Inch5,
+            .iPadPro12Inch5
         ]
     }
 
@@ -298,7 +296,7 @@ extension Device {
             .iPadPro11Inch2,
             .iPadPro12Inch4,
             .iPadPro11Inch3,
-            .iPadPro12Inch5,
+            .iPadPro12Inch5
         ]
     }
 
@@ -314,7 +312,7 @@ extension Device {
             .iPhone12Pro,
             .iPhone12ProMax,
             .iPhone13Pro,
-            .iPhone13ProMax,
+            .iPhone13ProMax
         ]
     }
 
@@ -334,7 +332,7 @@ extension Device {
             .iPadPro11Inch2,
             .iPadPro12Inch4,
             .iPadPro11Inch3,
-            .iPadPro12Inch5,
+            .iPadPro12Inch5
         ]
     }
 
